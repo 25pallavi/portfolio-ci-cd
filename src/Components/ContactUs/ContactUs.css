@@ -1,0 +1,39 @@
+h2.text-center {
+    padding-bottom: 5px;
+    font-size: 32px;
+    color: #fff;
+    font-weight: 500;
+    text-align: center;
+}
+.contact-div {
+    background: linear-gradient(38.73deg, rgba(204, 0, 187, 0.15) 0%, rgba(201, 32, 184, 0) 50%), linear-gradient(141.27deg, rgba(0, 70, 209, 0) 50%, rgba(0, 70, 209, 0.15) 100%);
+    width: 100%;
+    clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 30% 98%, 0px 100%);
+    padding: 74px 0;
+}
+.form-control {
+    font-family: "Poppins";
+    font-family: "Poppins";
+    background: #e9e5e5;
+    border: 1px solid rgb(177, 178, 179);
+}
+div#contact {
+    max-width: 670px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(23, 23, 33);
+    padding: 20px;
+    border-radius: 14px;
+}
+
+label.form-label {
+    color: #fff;
+    font-family: 'Poppins';
+    margin-bottom: 18px;
+}
+
+button.btn.btn-primary{
+    background: linear-gradient(94.82deg, #4BE0DC 5.9%, #8282FF 95.31%);
+    font-family: 'Poppins';
+
+}

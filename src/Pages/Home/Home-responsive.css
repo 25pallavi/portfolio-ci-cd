@@ -1,0 +1,82 @@
+@media only screen and (max-width: 1199px) {
+    .navigation-list li a {
+        font-size: 14px;
+    }
+    .banner-content-top h2, .banner-content-top h2 span {
+        font-size: 65px;
+    }
+    .bannerPara {
+        font-size: 15px;
+        line-height: 22px;
+        max-width: 795px;
+    }
+    .banner-content-top h1 {
+        font-size: 31px;
+    }
+    .banner-vdo-content {
+        max-width: 825px;
+    }
+    .Banner {
+        padding-top: 116px;
+    }
+}
+@media (max-width: 767px) {
+    .contactUs a,.hide-btn {
+      font-size: 14px !important;
+  }
+  .hide-btn{
+    font-size: 11px !important;
+  }
+  .contactUs {
+    height: 35px;
+}
+  .logo {
+      max-width: 57px;
+  }
+  .ThemeBtn,.bnrHideMenu {
+    font-size: 10px;
+    border-radius: 28px;
+    padding: 6px 9px;
+    max-width: 340px;
+    gap: 6px;
+    height: 35px;
+}
+.Banner {
+    padding-top: 98px;
+}
+.CompareMsg {
+    padding: 15px 0 24px 0;
+}
+  a.ViewBtn {
+      font-size: 16px ;
+  }
+  .banner-content-top h2, .banner-content-top h2 span {
+      font-size: 30px ;
+  }
+  .banner-content-top h1 {
+      font-size: 22px ;
+  }
+  .CompareMsg {
+      font-size: 15px;
+      line-height: 20px;
+  }
+  video.banner-vdo2 {
+      max-width: 280px;
+  }
+  video.banner-vdo1 {
+      max-width: 266px ;
+      position: absolute;
+      left: 0 ;
+      bottom: -17px ;
+  }
+  video.banner-vdo3 {
+      max-width: 265px ;
+      position: absolute;
+      right: 0px;
+      bottom: -17px ;
+  }
+  .banner-vdo-content {
+      /* max-width: 100%; */
+      margin: 0 auto -76px auto ;
+  }
+    }

@@ -1,0 +1,72 @@
+.skills-card h5 {
+    font-size: 28px;
+    font-weight: 600;
+    color: rgb(177, 178, 179);
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.skills-card.card-border {
+    width: 100%;
+    max-width: 500px;
+    background: rgb(23, 23, 33);
+    border: 0.1px solid rgb(133, 76, 230);
+    box-shadow: rgba(23, 92, 230, 0.15) 0px 4px 24px;
+    border-radius: 16px;
+    padding: 18px 36px;
+    color: #fff;
+    min-height: 350px;
+}
+.skills-card.card-border li {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    gap: 8px;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(242, 243, 244, 0.5);
+    border: 1px solid rgba(242, 243, 244, 0.5);
+    border-radius: 12px;
+    padding: 8px 16px;
+}
+.skills-card ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+
+.SkillscardContainer {
+    background: linear-gradient(38.73deg, rgba(204, 0, 187, 0.15) 0%, rgba(201, 32, 184, 0) 50%), linear-gradient(141.27deg, rgba(0, 70, 209, 0) 50%, rgba(0, 70, 209, 0.15) 100%);
+    width: 100%;
+    padding: 50px 0;
+    color: #fff;
+    text-align: center;
+}
+
+.SkillscardContainer-bg {
+    background: #000;
+}
+.SkillscardContainer p {
+    padding: 25px 0;
+}
+.skills-card.card-border li img {
+    max-width: 24px;
+}
+
+.SkillscardContainer h2 {
+    font-size: 32px;
+    color: #fff;
+    font-weight: 500;
+}
+
+.SkillscardContainer p {
+    font-size: 20px;
+    color: #fff;
+    font-weight: 400;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align:center ;
+}
